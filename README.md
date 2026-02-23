@@ -3,10 +3,10 @@
 ## 🚀 About Me
 Data Scientist with a focus on **Machine Learning** and **Azure Cloud**. Building intelligent systems that solve real business problems.
 
-📍 Based in the UK, targeting opportunities in Dubai
+📍 Based in the Dubai
 
 ## 🛠️ Technical Skills
-- **Languages:** Python, SQL
+- **Languages:** Python, SQL, R
 - **ML/AI:** Scikit-learn, Pandas, Time Series Forecasting
 - **Cloud:** Azure (ML, Blob Storage, Functions)
 - **Tools:** Jupyter, Git, Qlik, Power BI
@@ -24,8 +24,7 @@ Real-time news sentiment analysis for market predictions
 - Tech: Python, OpenAI API, News API, Azure
 
 ## 📫 Connect
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your Email]
+- Email: jwroberts2010@sky.com
 
 ---
 💡 Currently seeking Data Science / ML Engineering roles in Dubai
